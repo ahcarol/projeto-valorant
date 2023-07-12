@@ -9,28 +9,28 @@
         margin: 0 auto;
     }
 
-    .selecao-de-personagens .personagens{
+    .selecao-de-personagens personagens{
         margin-top: 37px;
     }
 
-    .selecao-de-personagens .personagens .titulo{
+    .selecao-de-personagens personagens titulo{
         font-size: 15px;
     }
 
-    .selecao-de-personagens .lista-de-personagens{
+    .selecao-de-personagens lista-de-personagens{
         gap: 9px
     }
 
-    .selecao-de-personagens .personagem img{
+    .selecao-de-personagens personagem img{
         width: 80px;
     }
 
-    .personagem-selecionado .personagem-grande{
+    .personagem-selecionado personagem-grande{
         width: 350px;
         height: 350px;
     }
 
-    .personagem-selecionado .descricao-personagem{
+    .personagem-selecionado descricao-personagem{
         width: 80%;
         font-size: 16px;
         margin: 20px auto;
